@@ -98,6 +98,8 @@
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
+![](https://komarev.com/ghpvc/?username=theculguy0099&style=for-the-badge)
+
 ## Connect With Me
 
   <a href="mailto:kevinrt1923@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
