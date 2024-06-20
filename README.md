@@ -54,7 +54,7 @@
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,c,cpp,python,html,css,javascript,react,nodejs,vite,bootstrap,tailwind,firebase,mongodb,mysql,sqlite,flask,mui,linux,git,github,bash,arduino,figma,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,c,cpp,python,html,css,javascript,react,nodejs,vite,express,bootstrap,tailwind,firebase,mongodb,mysql,sqlite,flask,mui,linux,git,github,bash,arduino,figma,postman" />
 </p>
 
 <p align="center">
