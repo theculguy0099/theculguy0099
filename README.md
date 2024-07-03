@@ -36,6 +36,8 @@
 - 🚀 Constantly upgrading my skills and knowledge in the ever-evolving world of technology.
 
 
+
+
 <!-- ## Interests
 - 👨‍💻 Interested in collaborating on exciting projects and building innovative solutions.
 - 🤝 Open to collaborations and teamwork to create impactful and meaningful software. -->
@@ -70,10 +72,23 @@
   <img align="center" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 </p>
 
+<style>
+  .center {
+    text-align: center;
+  }
+</style>
+
+<div class="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theculguy0099&show_icons=true&locale=en&layout=compact" alt="Kevin" />
+</div>
+
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
+
 
 ![](https://komarev.com/ghpvc/?username=theculguy0099&style=for-the-badge)
+
+
+
 
 ## Connect With Me
 
