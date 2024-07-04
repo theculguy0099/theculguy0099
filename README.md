@@ -76,10 +76,10 @@
 
 
 ![](https://komarev.com/ghpvc/?username=theculguy0099&style=for-the-badge)
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theculguy0099&show_icons=true&locale=en&layout=compact" alt="Kevin" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theculguy0099&show_icons=true&locale=en&layout=compact" alt="Kevin" /></p>
 
 
- -->
+
 
 ## Connect With Me
 
